@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 玥
-subtitle: ''
-description: ''
-keywords:
+title: '玥空'
+subtitle: '不要用战术上的勤奋，掩盖战略上的懒惰，找准目标，高效完成'
+description: '123'
+keywords: '学习 Coding'
 author: YueByte
 language: zh-CN
 timezone: ''
@@ -103,4 +103,6 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/yuebyte/yuebyte.github.io.git
+  branch: gh-pages
